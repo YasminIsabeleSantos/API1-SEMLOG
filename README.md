@@ -1,6 +1,6 @@
-# Aprendizado por Projeto Integrado (API) - Template
+# Projeto Integrador (API1) - Template
 
-Template do primeiro projeto integrador do curso de graduação em Logística, ensinando na utilização do repositório digital "GitHub". 
+Template do Projeto integrador do 1º Semestre do Curso Superior em Logística, com o objetivo de Mapear o potencial de movimentação de cargas no Aeroporto Internacional de SJK com base em dados de importações e exportações de Municípios. . 
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
