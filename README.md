@@ -8,6 +8,7 @@ Projeto baseado na metodologia ágil SCRUM, a fim de demonstrar entendimento sob
 
 * [Projeto](#projeto-template)
 * [Empresa](#Empresa)
+* [Micro Certificações](#Certificados)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [uncionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
