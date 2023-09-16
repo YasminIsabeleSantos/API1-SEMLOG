@@ -7,7 +7,7 @@ Projeto baseado na metodologia ágil SCRUM, a fim de demonstrar entendimento sob
 # Índice
 
 * [Projeto](#projeto-template)
-* [Micro Certificações](#badges)
+* [Empresa](#Empresa)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [uncionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
