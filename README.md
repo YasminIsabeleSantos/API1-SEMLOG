@@ -33,8 +33,12 @@ Sprint | Previsão | Status| Histórico|
 |Feira de Soluções|12/12/2023 |Não Iniciado|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 # Empresa
-![Logo](WhatsApp Image 2023-09-16 at 15.57.06.jpeg)
+> Logo
 
+<div id="top"></div>
+<p align="center">
+      <img src="WhatsApp Image 2023-09-16 at 15.57.06.jpeg" width="30%" height="30%">
+<p align="center">
 
 # Micro Certificações
 Futuramente
