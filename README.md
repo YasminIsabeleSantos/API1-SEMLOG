@@ -37,14 +37,14 @@ Sprint | Previsão | Status| Histórico|
 
 <div id="top"></div>
 <p align="center">
-      <img src="WhatsApp Image 2023-09-16 at 15.57.06.jpeg" width="80%" height="80%">
+      <img src="WhatsApp Image 2023-09-16 at 15.57.06.jpeg" width="30%" height="30%">
 <p align="center">
 
 > Análise SWOT
 
 <div id="top"></div>
 <p align="center">
-      <img src="WhatsApp Image 2023-09-17 at 16.26.46.jpeg" width="30%" height="30%">
+      <img src="WhatsApp Image 2023-09-17 at 16.26.46.jpeg" width="80%" height="80%">
 <p align="center">
 
 # Micro Certificações
