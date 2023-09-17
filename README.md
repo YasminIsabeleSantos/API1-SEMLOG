@@ -47,9 +47,12 @@ Sprint | Previsão | Status| Histórico|
 
 > Missão
 
+
 > Visão
 
+
 > Valores
+
 
 > Análise SWOT
 
