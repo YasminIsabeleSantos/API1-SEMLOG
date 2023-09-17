@@ -39,12 +39,14 @@ Sprint | Previsão | Status| Histórico|
 
 > Logo
 
+
 <div id="top"></div>
 <p align="center">
       <img src="WhatsApp Image 2023-09-16 at 15.57.06.jpeg" width="30%" height="30%">
 <p align="center">
 
 > Análise SWOT
+
 
 <div id="top"></div>
 <p align="center">
