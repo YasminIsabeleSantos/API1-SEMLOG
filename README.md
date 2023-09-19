@@ -117,7 +117,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 
 
-## Tecnologias Aplicadas
+## Bases Tecnológicas 
 
   ### MVP do Produto 
 
@@ -131,15 +131,9 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 > Liste aqui todas as tecnologias de Mindset digital utilizadas no API.
 
-Exemplos: 
+Exemplo: 
 - Backlog
- [![MVP](https://img.youtube.com/vi/Ipg6Ox6qlC8/0.jpg)](https://www.youtube.com/embed/Ipg6Ox6qlC8)
-- MVP
-- [![MVP](https://img.youtube.com/vi/BYAABeMllcM/0.jpg)](https://www.youtube.com/embed/BYAABeMllcM)
-- Scrum para iniciantes
-- [![Scrum para iniciantes](https://img.youtube.com/vi/1DkmzynmRHk/0.jpg)](https://www.youtube.com/embed/1DkmzynmRHk)
 
-# Cronograma das Sprints
 
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
