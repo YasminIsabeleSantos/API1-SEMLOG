@@ -59,12 +59,12 @@ Ser a melhor empresa de consultoria  de análise  de dados do vale do paraiba, v
 
 > Valores
 
-
-- Cuidados com os colaboradores.
-- Profissionalismo.
-- Pontualidade.
+- Bem-estar.
+- Colaboração.
+- Satisfação
+- Inclusão.
 - Inovação.
-- Respeito
+- Educação.
 
 
 > Análise SWOT
