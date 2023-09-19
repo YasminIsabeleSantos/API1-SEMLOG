@@ -67,6 +67,16 @@ Ser a melhor empresa de consultoria  de análise  de dados do vale do paraiba, v
 - Educação.
 
 
+> Organograma
+
+ <div id="top"></div>
+<p align="center">
+      <img src="" width="80%" height="80%">
+<p align="center">
+
+> 5S
+
+
 > Análise SWOT
 
 
