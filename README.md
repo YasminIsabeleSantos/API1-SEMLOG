@@ -82,10 +82,7 @@ Futuramente
  <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
 </p>
 
-<p align="center">
- <img src="https://cursos.ninjadoexcel.com.br/curso/curso-excel-gratuito"/>
-</p>
-
+**Excel**
 
 # Equipe
 ![Equipe](https://github.com/AndreLuizRibeiro/Template/blob/main/.img/gettyimages-1380215929-612x612.jpg?raw=true)
