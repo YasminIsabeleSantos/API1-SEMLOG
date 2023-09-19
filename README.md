@@ -11,7 +11,7 @@ Projeto baseado na metodologia ágil SCRUM, a fim de demonstrar entendimento sob
 * [Micro Certificações](#Certificados)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [uncionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
+* [Funcionalidades e Registros](#Funcionalidades-e-Registros)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
 * [Backlog do produto](#Backlog-do-produto)
 * [Burndown](#Burndown)
@@ -96,7 +96,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Facilitar o compartilhamento e feedback;
 * Desenvolver habilidades técnicas.
 
-# Funcionalidades e registros (vídeos e apresnetações) das sprints
+# Funcionalidades e Registros 
 
 Apresentação das funcionalidades
 Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
