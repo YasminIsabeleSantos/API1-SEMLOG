@@ -47,11 +47,20 @@ Sprint | Previsão | Status| Histórico|
 
 > Missão
 
+A missão da Space Logtec é realizar consultorias  de maneira eficiente e ágil, proporcionando melhorias para  nossos clientes na área de análise de dados.
 
 > Visão
 
+Ser a melhor empresa de consultoria  de análise  de dados do vale do paraiba, visando a superior satisfação dos consumidores.
+
 
 > Valores
+
+- Cuidados com os colaboradores.
+- Profissionalismo.
+- Pontualidade.
+- Inovação.
+- Respeito
 
 
 > Análise SWOT
