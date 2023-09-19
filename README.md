@@ -113,29 +113,27 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 # Funcionalidades e Registros 
 
-Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
+> Apresentação das funcionalidades e Registros Educacionais.
 
-Adicionar video e documentos nessa seção
 
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
 
-## Tecnologias Utilizadas
-  ### Produto 
-  > Descreva aqui a parte do MVP referente a Sprint
+## Tecnologias Aplicadas
 
- ### Tecnológias Específicas/Apoio
+  ### MVP do Produto 
+
+  > Descreva aqui o MVP do Produto.
+
+ ### Tecnológias de Apoio
+
  > Liste aqui todas as tecnologias utilizadas para colcluir a entrega
-Exemplos: 
-- [Balanceamento de Produção](nomus.com.br/blog-industrial/balanceamento-de-linha/)
-- [Novo Perfil Profissional](https://repositorio.unesp.br/handle/11449/237929)
-- [Gestão de Projetos](https://robsoncamargo.com.br/blog/PMBOK)
-  
+
  ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
+
+> Liste aqui todas as tecnologias de Mindset digital utilizadas no API.
+
 Exemplos: 
 - Backlog
-- [![MVP](https://img.youtube.com/vi/Ipg6Ox6qlC8/0.jpg)](https://www.youtube.com/embed/Ipg6Ox6qlC8)
+ [![MVP](https://img.youtube.com/vi/Ipg6Ox6qlC8/0.jpg)](https://www.youtube.com/embed/Ipg6Ox6qlC8)
 - MVP
 - [![MVP](https://img.youtube.com/vi/BYAABeMllcM/0.jpg)](https://www.youtube.com/embed/BYAABeMllcM)
 - Scrum para iniciantes
