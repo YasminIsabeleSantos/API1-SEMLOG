@@ -67,7 +67,7 @@ Ser a melhor empresa de consultoria  de análise  de dados do vale do paraiba, v
 - Educação.
 
 
-> Organograma
+> Estrutura Organizacional 
 
  <div id="top"></div>
 <p align="center">
