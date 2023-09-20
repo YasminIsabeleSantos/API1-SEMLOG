@@ -78,7 +78,7 @@ Ser a melhor empresa de consultoria  de análise  de dados do vale do paraiba, v
 
 <div id="top"></div>
 <p align="center">
-      <img src="W" width="80%" height="80%">
+      <img src="5s.PNG" width="80%" height="80%">
 <p align="center">
 
 
