@@ -97,7 +97,6 @@ Futuramente
  <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
 </p>
 
-**Excel**
 
 
 # Equipe
@@ -123,44 +122,62 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
   > Descreva aqui o MVP do Produto.
 
+
+
+
  ### Tecnológias de Apoio
 
  > Liste aqui todas as tecnologias utilizadas para colcluir a entrega
 
+
+
+
+
  ### Mindset Digital
 
 > Liste aqui todas as tecnologias de Mindset digital utilizadas no API.
-
 Exemplo: 
 - Backlog
 
 
+
+
+
 ## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
+Ao clicar você será redirecionado ao cronograma detalhado deste projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
 #### Cronograma das Sprints[(clique aqui)]()
+
+
+
 
 # Backlog do produto
   
 
 
-Regras de Negócio
-- 
+**Regras de Negócio**
 
-Requisitos funcionais 
+- 
+-
+-
+
+**Requisitos funcionais** 
+
 - Conteúdo da apresentação   
 - Relatórios 
 
   
-Requisitos não funcionais
+**Requisitos não funcionais**
+
 - Usar tecnologias.
 - Metodologias ágil.
 - Power BI / Jira / Canvas
   
-User stories
 
 # Burndown
-![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
+
+
+
 
 
 ## Sprint 1. Concepção
