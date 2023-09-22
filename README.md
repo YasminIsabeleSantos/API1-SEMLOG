@@ -139,8 +139,6 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
  ### Mindset Digital
 
 > Liste aqui todas as tecnologias de Mindset digital utilizadas no API.
-Exemplo: 
-- Backlog
 
 
 
