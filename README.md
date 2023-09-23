@@ -103,7 +103,13 @@ Futuramente
 
 
 # Equipe
-![Equipe](https://github.com/AndreLuizRibeiro/Template/blob/main/.img/gettyimages-1380215929-612x612.jpg?raw=true)
+
+<div id="top"></div>
+<p align="center">
+      <img src="WhatsApp Image 2023-09-23 at 12.05.15.jpeg" width="80%" height="80%">
+<p align="center">
+
+
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
