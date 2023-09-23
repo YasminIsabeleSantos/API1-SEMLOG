@@ -112,20 +112,21 @@ Futuramente
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo Mapear o potencial  de movimentação de cargas no aeroporto de SJK com base  em dados de importação e exportação, visando:
 
-- Demonstrar entendimento sobre: termos técnicos logísticos , cadeias produtivas internacionalizadas e infraestruturas de transporte.
+Este projeto tem como objetivo Mapear o potencial  de movimentação de cargas no aeroporto de SJK com base em dados de importação e exportação, visando:
 
-- Saber usar (com ajuda ou autonomia) tecnologias Microsoft Power Plataform ( Power BI ) para capturar, tratar, organizar, armazenar e apresentar dados característicos.
+
+**-** Demonstrar entendimento sobre: termos técnicos logísticos , cadeias produtivas internacionalizadas e infraestruturas de transporte.
+
+- Saber utilizar tecnologias Microsoft Power Plataform ( Power BI ) para capturar, tratar, organizar, armazenar e apresentar dados característicos.
   
-- Saber usar (com ajuda ou autonomia) a tecnologia Github para gerar o portfolio do projeto e para criar seu próprio portfolio pessoal
+- Saber utilizar a tecnologia Github para gerar o portfolio do projeto e desenvolver seu próprio portfolio pessoal.
   
-- Demonstrar automonia ao atuar em ambiente ágil de trabalho na metodologia Scrum 
+- Demonstrar automonia ao atuar em ambiente ágil de trabalho na metodologia Scrum.
 
-- Demonstrar entendimento sobre o papel das soft skills no desenvolvimento profissional e pessoal 
+- Demonstrar entendimento sobre o papel das soft skills no desenvolvimento profissional e pessoal.
 
-- Demonstrar entendimento sobre a importância do uso do conhecimento técnico e científico, e suas tecnologias, para a resolução de desafios acadêmicos e empresariais
-![image](https://github.com/JosianeAraujo07112/API-1SEM-LOG/assets/144141569/7e677b9b-2649-4aff-876f-41c148b08d02)
+- Demonstrar entendimento sobre a importância do uso do conhecimento técnico e científico, e suas tecnologias, para a resolução de desafios acadêmicos e empresariais.
 
 # Funcionalidades e Registros 
 
