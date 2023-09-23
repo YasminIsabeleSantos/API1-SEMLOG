@@ -145,7 +145,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 
 ## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado deste projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
+ > Ao clicar você será redirecionado ao cronograma detalhado deste projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
 #### Cronograma das Sprints[(clique aqui)]()
 
@@ -164,15 +164,15 @@ Ao clicar você será redirecionado ao cronograma detalhado deste projeto, lá �
 
 **Requisitos funcionais** 
 
-- Conteúdo da apresentação   
-- Relatórios 
-
+-    
+- 
+-
   
 **Requisitos não funcionais**
 
-- Usar tecnologias.
-- Metodologias ágil.
-- Power BI / Jira / Canvas
+- 
+- 
+- 
   
 
 # Burndown
@@ -181,45 +181,45 @@ Ao clicar você será redirecionado ao cronograma detalhado deste projeto, lá �
 
 
 
-## Sprint 1. Concepção
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+## Sprint 1. 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ]
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
-## Sprint 2. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+## Sprint 2. 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ]      
+- [ ] 
       
-## Sprint 3 . Implementação
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+## Sprint 3. 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
       
-## Sprint 4. Operacionalização
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+## Sprint 4.
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 
 # Competências desenvolvidas
