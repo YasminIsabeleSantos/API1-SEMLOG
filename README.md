@@ -112,12 +112,20 @@ Futuramente
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Este projeto tem como objetivo Mapear o potencial  de movimentação de cargas no aeroporto de SJK com base  em dados de importação e exportação, visando:
+
+- Demonstrar entendimento sobre: termos técnicos logísticos , cadeias produtivas internacionalizadas e infraestruturas de transporte.
+
+- Saber usar (com ajuda ou autonomia) tecnologias Microsoft Power Plataform ( Power BI ) para capturar, tratar, organizar, armazenar e apresentar dados característicos.
+  
+- Saber usar (com ajuda ou autonomia) a tecnologia Github para gerar o portfolio do projeto e para criar seu próprio portfolio pessoal
+  
+- Demonstrar automonia ao atuar em ambiente ágil de trabalho na metodologia Scrum 
+
+- Demonstrar entendimento sobre o papel das soft skills no desenvolvimento profissional e pessoal 
+
+- Demonstrar entendimento sobre a importância do uso do conhecimento técnico e científico, e suas tecnologias, para a resolução de desafios acadêmicos e empresariais
+![image](https://github.com/JosianeAraujo07112/API-1SEM-LOG/assets/144141569/7e677b9b-2649-4aff-876f-41c148b08d02)
 
 # Funcionalidades e Registros 
 
