@@ -42,7 +42,7 @@ Sprint | Previsão | Status| Histórico|
 
 <div id="top"></div>
 <p align="center">
-      <img src="WhatsApp Image 2023-09-16 at 15.57.06.jpeg" width="40%" height="40%">
+      <img src="WhatsApp Image 2023-09-16 at 15.57.06.jpeg" width="50%" height="50%">
 <p align="center">
 
 > Missão
@@ -72,7 +72,7 @@ Ser a melhor empresa de consultoria  de análise  de dados do vale do paraiba, v
 
  <div id="top"></div>
 <p align="center">
-      <img src="WhatsApp Image 2023-09-20 at 09.37.33.jpeg" width="80%" height="80%">
+      <img src="WhatsApp Image 2023-09-20 at 09.37.33.jpeg" width="90%" height="90%">
 <p align="center">
 
 
@@ -81,7 +81,7 @@ Ser a melhor empresa de consultoria  de análise  de dados do vale do paraiba, v
 
 <div id="top"></div>
 <p align="center">
-      <img src="5s.PNG" width="80%" height="80%">
+      <img src="5s.PNG" width="90%" height="90%">
 <p align="center">
 
 
@@ -90,7 +90,7 @@ Ser a melhor empresa de consultoria  de análise  de dados do vale do paraiba, v
 
 <div id="top"></div>
 <p align="center">
-      <img src="WhatsApp Image 2023-09-17 at 16.26.46.jpeg" width="80%" height="80%">
+      <img src="WhatsApp Image 2023-09-17 at 16.26.46.jpeg" width="90%" height="90%">
 <p align="center">
 
 # Micro Certificações
