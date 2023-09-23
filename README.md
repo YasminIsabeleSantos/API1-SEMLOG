@@ -106,7 +106,7 @@ Futuramente
 
 <div id="top"></div>
 <p align="center">
-      <img src="WhatsApp Image 2023-09-23 at 12.05.15.jpeg" width="80%" height="80%">
+      <img src="WhatsApp Image 2023-09-23 at 12.05.15.jpeg" width="90%" height="90%">
 <p align="center">
 
 
@@ -116,7 +116,7 @@ Futuramente
 Este projeto tem como objetivo Mapear o potencial  de movimentação de cargas no aeroporto de SJK com base em dados de importação e exportação, visando:
 
 
-**-** Demonstrar entendimento sobre: termos técnicos logísticos , cadeias produtivas internacionalizadas e infraestruturas de transporte.
+- Demonstrar entendimento sobre: termos técnicos logísticos , cadeias produtivas internacionalizadas e infraestruturas de transporte.
 
 - Saber utilizar tecnologias Microsoft Power Plataform ( Power BI ) para capturar, tratar, organizar, armazenar e apresentar dados característicos.
   
