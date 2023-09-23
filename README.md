@@ -121,6 +121,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 ## Bases Tecnológicas 
 
+
   ### MVP do Produto 
 
   > Descreva aqui o MVP do Produto.
@@ -145,6 +146,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 
 ## Cronograma
+
  > Ao clicar você será redirecionado ao cronograma detalhado deste projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
 #### Cronograma das Sprints[(clique aqui)]()
@@ -224,7 +226,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 # Competências desenvolvidas
 
-## Hard Skill (saber tecnológico)
+## Hard Skill (Saber tecnológico)
 <details>
 <summary>Hard Skills desenvolvidas</summary>
   
@@ -239,7 +241,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
  
 </details>
 
-## Soft Skill (saber comportamental)
+## Soft Skill (Saber comportamental)
 <details>
 <summary>Soft Skills desenvolvidas</summary>
 
