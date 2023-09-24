@@ -29,7 +29,7 @@ Mapear o potencial de movimentação de cargas no Aeroporto Internacional de Sã
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 04/09/2023 | Concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|00 | 25/09/2023 | Em Progresso| [Ver Relatório](https://fatecspgov-my.sharepoint.com/personal/josiane_araujo_fatec_sp_gov_br/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjosiane%5Faraujo%5Ffatec%5Fsp%5Fgov%5Fbr%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files%2Fpdf%20relat%C3%B3rio%2Epdf&parent=%2Fpersonal%2Fjosiane%5Faraujo%5Ffatec%5Fsp%5Fgov%5Fbr%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files) | 
+|00 | 25/09/2023 | Cocluido| [Ver Relatório](https://fatecspgov-my.sharepoint.com/personal/josiane_araujo_fatec_sp_gov_br/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjosiane%5Faraujo%5Ffatec%5Fsp%5Fgov%5Fbr%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files%2Fpdf%20relat%C3%B3rio%2Epdf&parent=%2Fpersonal%2Fjosiane%5Faraujo%5Ffatec%5Fsp%5Fgov%5Fbr%2FDocuments%2FMicrosoft%20Teams%20Chat%20Files) | 
 |01|  16/10/2023| Não Iniciado |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |02| 06/11/2023| Não Iniciado|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |03| 27/11/2023 | Não Iniciado |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
