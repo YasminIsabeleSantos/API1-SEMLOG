@@ -203,7 +203,7 @@ Este projeto tem como objetivo Mapear o potencial  de movimentação de cargas n
 
  <div id="top"></div>
 <p align="center">
-      <img src="API - Equipe ágil - Jira.pdf" width="90%" height="90%">
+      <img src="file:///home/notebook/Downloads/WhatsApp%20Image%202023-09-24%20at%2015.27.44(1).jpeg" width="90%" height="90%">
 <p align="center">
 
  
