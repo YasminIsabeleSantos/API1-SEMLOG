@@ -29,7 +29,7 @@ Mapear o potencial de movimentação de cargas no Aeroporto Internacional de Sã
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 04/09/2023 | Concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|00 | 25/09/2023 | Em Progresso| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|00 | 25/09/2023 | Em Progresso| [Ver Relatório](Tese Doutorado Qualificação Reinaldo 18_06_2010 - pdf relatório.pdf) | 
 |01|  16/10/2023| Não Iniciado |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |02| 06/11/2023| Não Iniciado|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |03| 27/11/2023 | Não Iniciado |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
