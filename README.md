@@ -203,7 +203,7 @@ Este projeto tem como objetivo Mapear o potencial  de movimentação de cargas n
 
  <div id="top"></div>
 <p align="center">
-      <img src="https://yasmin-isabele-santos.atlassian.net/jira/software/projects/S0/boards/1/backlog" width="90%" height="90%">
+      <img src="API - Equipe ágil - Jira.pdf" width="90%" height="90%">
 <p align="center">
 
  
