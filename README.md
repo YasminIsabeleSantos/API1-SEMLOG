@@ -198,40 +198,33 @@ Este projeto tem como objetivo Mapear o potencial  de movimentação de cargas n
 
 
 
-## Sprint 1. 
+## Sprint 0. 
 
-
- <div id="top"></div>
-<p align="center">
-      <img src="file:///home/notebook/Downloads/WhatsApp%20Image%202023-09-24%20at%2015.27.44(1).jpeg" width="90%" height="90%">
-<p align="center">
-
- 
-
-## Sprint 2. 
 - [ ] 
 - [ ] 
 - [ ] 
 - [ ]      
 - [ ] 
       
-## Sprint 3. 
+
+## Sprint 1. 
+
 - [ ] 
 - [ ] 
 - [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ]      
 - [ ] 
       
-## Sprint 4.
+## Sprint 2. 
+
 - [ ] 
 - [ ] 
 - [ ] 
 - [ ] 
-- [ ] 
+
+
+## Sprint 3.
+
 - [ ] 
 - [ ] 
 - [ ] 
