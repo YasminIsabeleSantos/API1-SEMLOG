@@ -170,7 +170,8 @@ Este projeto tem como objetivo Mapear o potencial  de movimentação de cargas n
 
 
 # Backlog do produto
-  
+
+  > Coloque o Backlog do Produto.
 
 
 **Regras de Negócio**
@@ -194,7 +195,7 @@ Este projeto tem como objetivo Mapear o potencial  de movimentação de cargas n
 
 # Burndown
 
-
+> Coloque o burndown da empresa.
 
 
 
