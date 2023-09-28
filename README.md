@@ -8,7 +8,6 @@ Projeto baseado na metodologia ágil SCRUM, a fim de demonstrar entendimento sob
 
 * [Projeto](#projeto-template)
 * [Empresa](#Empresa)
-* [Micro Certificações](#Certificados)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e Registros](#Funcionalidades-e-Registros)
@@ -16,7 +15,6 @@ Projeto baseado na metodologia ágil SCRUM, a fim de demonstrar entendimento sob
 * [Backlog do produto](#Backlog-do-produto)
 * [Burndown](#Burndown)
 * [Competências desenvolvidas](#competências-desenvolvidas)
-* [Autores](#autores)
 
 # Projeto (API) 
 
