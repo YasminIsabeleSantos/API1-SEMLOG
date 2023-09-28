@@ -93,14 +93,6 @@ Ser a melhor empresa de consultoria  de análise  de dados do vale do paraiba, v
       <img src="WhatsApp Image 2023-09-17 at 16.26.46.jpeg" width="90%" height="90%">
 <p align="center">
 
-# Micro Certificações
-Futuramente
-
-<p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
-</p>
-
-
 
 # Equipe
 
