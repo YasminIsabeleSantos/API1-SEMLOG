@@ -203,17 +203,16 @@ Este projeto tem como objetivo Mapear o potencial  de movimentação de cargas n
 
 <div id="top"></div>
 <p align="center">
-      <img src="JOOOO.png" width="50%" height="50%">
+      <img src="JOOOO.png" width="80%" height="80%">
 <p align="center">
 
 ## Sprint 1. 
 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ]      
-- [ ] 
-      
+<div id="top"></div>
+<p align="center">
+      <img src="JOOOOOOOOH.png" width="80%" height="80%">
+<p align="center">
+
 ## Sprint 2. 
 
 - [ ] 
