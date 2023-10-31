@@ -225,7 +225,7 @@ Este projeto tem como objetivo Mapear o potencial  de movimentação de cargas n
 
 
 
-# Backlog das Sprints.
+# Funções das Sprints.
 
 
 
