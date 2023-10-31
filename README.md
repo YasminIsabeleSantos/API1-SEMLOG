@@ -195,7 +195,7 @@ Este projeto tem como objetivo Mapear o potencial  de movimentação de cargas n
 
 # Burndown
 
-## Sprint 0. 
+## Burndown 0. 
 
 <div id="top"></div>
 <p align="center">
@@ -204,7 +204,7 @@ Este projeto tem como objetivo Mapear o potencial  de movimentação de cargas n
 
 
 
-## Sprint 1. 
+## Burndown 1. 
 
 <div id="top"></div>
 <p align="center">
@@ -213,11 +213,11 @@ Este projeto tem como objetivo Mapear o potencial  de movimentação de cargas n
 
 
 
-## Sprint 2. 
+## Burndown 2. 
 
 
 
-## Sprint 3. 
+## Burndown 3. 
 
 
 
