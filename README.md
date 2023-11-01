@@ -74,14 +74,10 @@ Ser a melhor empresa de consultoria  de análise  de dados do vale do paraiba, v
 <p align="center">
 
 
-> 5S
-
-
 <div id="top"></div>
 <p align="center">
       <img src="5s.PNG" width="90%" height="90%">
 <p align="center">
-
 
 > Análise SWOT
 
