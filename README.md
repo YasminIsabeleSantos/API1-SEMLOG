@@ -40,7 +40,7 @@ Sprint | Previsão | Status| Histórico|
 
 <div id="top"></div>
 <p align="center">
-      <img src="WhatsApp Image 2023-09-16 at 15.57.06.jpeg" width="50%" height="50%">
+      <img src="API1sem/logo.jpeg" width="50%" height="50%">
 <p align="center">
 
 > Missão
