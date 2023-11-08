@@ -141,6 +141,12 @@ Este projeto tem como objetivo Mapear o potencial  de movimentação de cargas n
 
 
  ### Tecnológias de Apoio
+ 
+ <div id="top"></div>
+<p align="center">
+      <img src="API1sem/tec_apoio.jpg" width="50%" height="50%">
+<p align="center">
+
 
  > Liste aqui todas as tecnologias utilizadas para colcluir a entrega
 
