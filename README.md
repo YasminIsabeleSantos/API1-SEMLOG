@@ -125,17 +125,6 @@ Este projeto tem como objetivo Mapear o potencial  de movimentação de cargas n
 > Apresentação das funcionalidades e Registros Educacionais.
 
 
-
-## Bases Tecnológicas 
-
-
-  ### MVP do Produto 
-
-  > Descreva aqui o MVP do Produto.
-
-
-
-
  ### Tecnológias de Apoio
  
  <div id="top"></div>
