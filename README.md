@@ -133,51 +133,19 @@ Este projeto tem como objetivo Mapear o potencial  de movimentação de cargas n
 <p align="center">
 
 
- > Liste aqui todas as tecnologias utilizadas para colcluir a entrega
-
-
-
-
-
- ### Mindset Digital
-
-> Liste aqui todas as tecnologias de Mindset digital utilizadas no API.
-
-
-
-
-
-## Cronograma
+## Cronograma das Sprints 
 
  > Ao clicar você será redirecionado ao cronograma detalhado deste projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[(clique aqui)]()
+#### Cronograma [(clique aqui)]()
 
 
 
 
 # Backlog do produto
 
-  > Coloque o Backlog do Produto.
+  > 
 
-
-**Regras de Negócio**
-
-- 
--
--
-
-**Requisitos funcionais** 
-
--    
-- 
--
-  
-**Requisitos não funcionais**
-
-- 
-- 
-- 
   
 
 # Burndown
