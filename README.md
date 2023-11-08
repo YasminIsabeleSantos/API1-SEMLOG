@@ -155,7 +155,7 @@ Este projeto tem como objetivo Mapear o potencial  de movimentação de cargas n
 
 <div id="top"></div>
 <p align="center">
-      <img src="API1sem/backlog0.png" width="80%" height="80%">
+      <img src="API1sem/backlog1.png" width="80%" height="80%">
 <p align="center">
   
 
@@ -184,37 +184,6 @@ Este projeto tem como objetivo Mapear o potencial  de movimentação de cargas n
 
 
 ## Burndown 3. 
-
-
-
-
-
-
-
-# Funções das Sprints.
-
-
-
-## Sprint 0. 
-
-
-<div id="top"></div>
-<p align="center">
-      <img src="sprint0.png" width="80%" height="80%">
-<p align="center">
-
-## Sprint 1. 
-
-<div id="top"></div>
-<p align="center">
-      <img src="JOOOOOOOOH.png" width="80%" height="80%">
-<p align="center">
-
-## Sprint 2. 
-
-
-
-## Sprint 3.
 
 
 # Competências desenvolvidas
