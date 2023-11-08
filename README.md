@@ -28,7 +28,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 04/09/2023 | Concluido| [Ver Relatório](https://fatecspgov.sharepoint.com/:p:/r/sites/Section_PLG001.A994.M.074.146.20232/_layouts/15/doc2.aspx?sourcedoc=%7B9BCC5366-75DE-4D16-A03B-0D9D89063553%7D&file=Kick-off%20API%201M.pptx&action=edit&mobileredirect=true) | 
 |00 | 25/09/2023 | Concluido| [Ver Relatório](API1sem/eelatorio0log.docx)| 
-|01|  16/10/2023| Concluido |[Ver Relatório](https://fatecspgov-my.sharepoint.com/:w:/g/personal/laura_barros2_fatec_sp_gov_br/EVRbZx60f4VPkB1MYfV255EBFDxo7ZpGN3129aQMpYawBA?email=laura.barros2%40fatec.sp.gov.br&e=Sqj8ss) | 
+|01|  16/10/2023| Concluido |[Ver Relatório](API1sem/RelátorioSprit01.pdf) | 
 |02| 06/11/2023| Iniciado |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |03| 27/11/2023 | Não Iniciado |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções|12/12/2023 |Não Iniciado|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
