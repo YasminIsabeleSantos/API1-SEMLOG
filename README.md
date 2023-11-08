@@ -80,7 +80,7 @@ Ser a melhor empresa de consultoria  de análise  de dados do vale do paraiba, v
 
 <div id="top"></div>
 <p align="center">
-      <img src="WhatsApp Image 2023-09-17 at 16.26.46.jpeg" width="90%" height="90%">
+      <img src="API1sem/swot.jpeg" width="90%" height="90%">
 <p align="center">
 
 
