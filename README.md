@@ -122,7 +122,7 @@ Este projeto tem como objetivo Mapear o potencial  de movimentação de cargas n
 
 # Funcionalidades e Registros 
 
-> Apresentação das funcionalidades e Registros Educacionais.
+> MVP: Dashboard de indicadores 
 
 
  ### Tecnológias de Apoio
