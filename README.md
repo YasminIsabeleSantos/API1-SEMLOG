@@ -122,7 +122,10 @@ Este projeto tem como objetivo Mapear o potencial  de movimentação de cargas n
 
 # Funcionalidades e Registros 
 
-> MVP: Dashboard de indicadores 
+> MVP :  Dashboard de indicadores
+
+  O objetivo do dashboard é fornecer ao cliente uma vizualização simples e ágil dos indicadores.
+
 
 
  ### Tecnológias de Apoio
