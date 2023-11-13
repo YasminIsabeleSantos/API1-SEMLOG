@@ -126,7 +126,7 @@ Este projeto tem como objetivo Mapear o potencial  de movimentação de cargas n
 
   O objetivo do dashboard é fornecer ao cliente uma vizualização simples e ágil dos indicadores.
 
-
+ [Ver Relatório](API1sem/relatorio0log.pdf)
 
  ### Tecnológias de Apoio
  
