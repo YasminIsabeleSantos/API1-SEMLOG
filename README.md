@@ -166,7 +166,7 @@ Este projeto tem como objetivo Mapear o potencial  de movimentação de cargas n
 <div id="top"></div>
 <p align="center">
       <img src="WhatsApp Image 2023-11-12 at 23.00.11.jpeg
-" width="80%" height="80%">
+" width="70%" height="70%">
 <p align="center">
 
   
