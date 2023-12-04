@@ -202,7 +202,7 @@ Este projeto tem como objetivo Mapear o potencial  de movimentação de cargas n
 
 <div id="top"></div>
 <p align="center">
-      <img src="API1sem/gráfico2.png" width="80%" height="80%">
+      <img src="API1sem/gráfico2novo.png" width="80%" height="80%">
 <p align="center">
 
 
