@@ -124,6 +124,8 @@ Este projeto tem como objetivo Mapear o potencial  de movimentação de cargas n
 
 > MVP :  Dashboard de indicadores
 
+(https://youtu.be/w2PkmE1RA4w)
+
   O objetivo do dashboard é fornecer ao cliente uma vizualização simples e ágil dos indicadores.
 
  [Ver Dashboard](API1sem/DashboardAtualizado30.pbix)
