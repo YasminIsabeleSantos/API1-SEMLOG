@@ -128,7 +128,11 @@ Este projeto tem como objetivo Mapear o potencial  de movimentação de cargas n
 
   O objetivo do dashboard é fornecer ao cliente uma vizualização simples e ágil dos indicadores.
 
- [Ver Dashboard](API1sem/DashboardAtualizadoSprint3.pbix)
+<div id="top"></div>
+<p align="center">
+      <img src="API1sem/tec_apoio.jpg" width="50%" height="50%">
+<p align="center">
+
 
  ### Tecnológias de Apoio
  
