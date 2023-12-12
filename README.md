@@ -130,7 +130,7 @@ Este projeto tem como objetivo Mapear o potencial  de movimentação de cargas n
 
 <div id="top"></div>
 <p align="center">
-      <img src="API1sem/tec_apoio.jpg" width="50%" height="50%">
+      <img src="API1sem/qrcode.png" width="10%" height="10%">
 <p align="center">
 
 
